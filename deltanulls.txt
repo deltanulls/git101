@@ -1,3 +1,3 @@
-Add word
+Add word test for config
 test add git102
 
